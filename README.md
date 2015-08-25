@@ -29,7 +29,9 @@
 
 12.uCOSIII-TaskEmbedSem 使用任务内嵌信号
 
-13.uCOSIII-ISRSyncTask  ISR使用任务内嵌信号同步信号
+13.uCOSIII-ISRSyncTask 使用中端和任务内嵌信号进行同步
+
+14.uCOSIII-TaskQue 使用消息队列传递信息
 
 ####更新历史
 * 2015.8.18 添加 1.UCOSIII-LED
@@ -45,11 +47,12 @@
 * 2015.8.21 添加 11.uCOSIII-MutexSem
 * 2015.8.21 添加 12.uCOSIII-TaskEmbedSem
 * 2015.8.24 添加 13.uCOSIII-ISRSyncTask
+* 2015.8.24 添加 14.uCOSIII-TaskQue
 
 
 ####相关链接及反馈
 
-工程获取 ： https://github.com/BearZPY/STM32-uCOSIII.git
+工程获取 ：  https://git.oschina.net/bear_z/STM32-uCOSIII.git
 
 Bug反馈 ： 965006619@qq.com
 
