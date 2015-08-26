@@ -33,6 +33,8 @@
 
 14.uCOSIII-TaskQue 使用消息队列传递信息
 
+15.uCOSIII-TaskEmbedQue 使用任务内嵌消息队列传递信息
+
 ####更新历史
 * 2015.8.18 添加 1.UCOSIII-LED
 * 2015.8.18 添加 2.uCOSIII-DelTask
@@ -47,7 +49,8 @@
 * 2015.8.21 添加 11.uCOSIII-MutexSem
 * 2015.8.21 添加 12.uCOSIII-TaskEmbedSem
 * 2015.8.24 添加 13.uCOSIII-ISRSyncTask
-* 2015.8.24 添加 14.uCOSIII-TaskQue
+* 2015.8.25 添加 14.uCOSIII-TaskQue
+* 2015.8.26 添加 15.uCOSIII-TaskEmbedQue
 
 
 ####相关链接及反馈
