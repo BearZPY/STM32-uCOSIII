@@ -37,6 +37,8 @@
 
 16.uCOSIII-QueUseNotice 队列传输丢数据原因
 
+17.uCOSIII-EventFlagGroup  串口接收协议用事件标志组控制任务
+
 ####更新历史
 * 2015.8.18 添加 1.UCOSIII-LED
 * 2015.8.18 添加 2.uCOSIII-DelTask
@@ -54,6 +56,7 @@
 * 2015.8.25 添加 14.uCOSIII-TaskQue
 * 2015.8.26 添加 15.uCOSIII-TaskEmbedQue
 * 2015.8.27 添加 16.uCOSIII-QueUseNotice 
+* 2015.8.27 添加 17.uCOSIII-EventFlagGroup 
 
 
 ####相关链接及反馈
