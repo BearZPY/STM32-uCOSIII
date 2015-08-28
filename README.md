@@ -39,6 +39,8 @@
 
 17.uCOSIII-EventFlagGroup  串口接收协议用事件标志组控制任务
 
+18.uCOSIII-MemManage  申请释放内存及监控剩余内存
+
 ####更新历史
 * 2015.8.18 添加 1.UCOSIII-LED
 * 2015.8.18 添加 2.uCOSIII-DelTask
@@ -57,6 +59,7 @@
 * 2015.8.26 添加 15.uCOSIII-TaskEmbedQue
 * 2015.8.27 添加 16.uCOSIII-QueUseNotice 
 * 2015.8.27 添加 17.uCOSIII-EventFlagGroup 
+* 2015.8.28 添加 18.uCOSIII-MemManage
 
 
 ####相关链接及反馈
