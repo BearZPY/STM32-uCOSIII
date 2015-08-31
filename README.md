@@ -41,6 +41,8 @@
 
 18.uCOSIII-MemManage  申请释放内存及监控剩余内存
 
+19.uCOSIII-StatTask 统计任务统计CPU和栈使用率
+
 ####更新历史
 * 2015.8.18 添加 1.UCOSIII-LED
 * 2015.8.18 添加 2.uCOSIII-DelTask
@@ -60,6 +62,7 @@
 * 2015.8.27 添加 16.uCOSIII-QueUseNotice 
 * 2015.8.27 添加 17.uCOSIII-EventFlagGroup 
 * 2015.8.28 添加 18.uCOSIII-MemManage
+* 2015.8.31 添加 19.uCOSIII-StatTask
 
 
 ####相关链接及反馈
