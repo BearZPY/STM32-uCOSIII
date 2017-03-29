@@ -4,71 +4,71 @@
 #### STM32F103  MDK5.13
 ----
 
-####¹¤³ÌÄ¿Â¼
-1.uCOSIII-LED ¿ØÖÆLEDÉÁË¸   ´®¿Ú²âÊÔFPU¹¦ÄÜ
+#### å·¥ç¨‹ç›®å½•  
+1.uCOSIII-LED æŽ§åˆ¶LEDé—ªçƒ   ä¸²å£æµ‹è¯•FPUåŠŸèƒ½
 
-2.uCOSIII-DelTask  ´´½¨ºÍÉ¾³ýÈÎÎñ
+2.uCOSIII-DelTask  åˆ›å»ºå’Œåˆ é™¤ä»»åŠ¡
 
-3.uCOSIII-SuspendTask  ¹ÒÆðºÍ»Ö¸´ÈÎÎñ
+3.uCOSIII-SuspendTask  æŒ‚èµ·å’Œæ¢å¤ä»»åŠ¡
 
-4.uCOSIII-TimeSlicing  Ê±¼äÆ¬ÈÎÎñµ÷¶È
+4.uCOSIII-TimeSlicing  æ—¶é—´ç‰‡ä»»åŠ¡è°ƒåº¦
 
-5.uCOSIII-DirectReleaseISR  Ö±½Ó·¢²¼ÖÐ¶ÏÄ£Ê½
+5.uCOSIII-DirectReleaseISR  ç›´æŽ¥å‘å¸ƒä¸­æ–­æ¨¡å¼
 
-6.uCOSIII-DelayReleaseISR  ÑÓ³Ù·¢²¼ÖÐ¶ÏÄ£Ê½
+6.uCOSIII-DelayReleaseISR  å»¶è¿Ÿå‘å¸ƒä¸­æ–­æ¨¡å¼
 
-7.uCOSIII-SoftwareTimer Èí¼þ¶¨Ê±Æ÷ µ¥´Î£¬ÖÜÆÚ£¬ÑÓÊ±ÖÜÆÚ
+7.uCOSIII-SoftwareTimer è½¯ä»¶å®šæ—¶å™¨ å•æ¬¡ï¼Œå‘¨æœŸï¼Œå»¶æ—¶å‘¨æœŸ
 
-8.uCOSIII-ShareDataErr ²»Ê¹ÓÃÐÅºÅ·ÃÎÊ¹²Ïí×ÊÔ´³ö´íÊ¾Àý
+8.uCOSIII-ShareDataErr ä¸ä½¿ç”¨ä¿¡å·è®¿é—®å…±äº«èµ„æºå‡ºé”™ç¤ºä¾‹
 
-9.uCOSIII-BinSemShareData Ê¹ÓÃ¶þ½øÖÆÐÅºÅ·ÃÎÊ¹²ÏíÊý¾Ý
+9.uCOSIII-BinSemShareData ä½¿ç”¨äºŒè¿›åˆ¶ä¿¡å·è®¿é—®å…±äº«æ•°æ®
 
-10.uCOSIII-BinSemSyncTask Ê¹ÓÃ¶þ½øÖÆÐÅºÅÍ¬²½ÈÎÎñ
+10.uCOSIII-BinSemSyncTask ä½¿ç”¨äºŒè¿›åˆ¶ä¿¡å·åŒæ­¥ä»»åŠ¡
 
-11.uCOSIII-MutexSem Ê¹ÓÃ»¥³âÐÅºÅÌáÉýÈÎÎñÓÅÏÈ¼¶
+11.uCOSIII-MutexSem ä½¿ç”¨äº’æ–¥ä¿¡å·æå‡ä»»åŠ¡ä¼˜å…ˆçº§
 
-12.uCOSIII-TaskEmbedSem Ê¹ÓÃÈÎÎñÄÚÇ¶ÐÅºÅ
+12.uCOSIII-TaskEmbedSem ä½¿ç”¨ä»»åŠ¡å†…åµŒä¿¡å·
 
-13.uCOSIII-ISRSyncTask Ê¹ÓÃÖÐ¶ËºÍÈÎÎñÄÚÇ¶ÐÅºÅ½øÐÐÍ¬²½
+13.uCOSIII-ISRSyncTask ä½¿ç”¨ä¸­ç«¯å’Œä»»åŠ¡å†…åµŒä¿¡å·è¿›è¡ŒåŒæ­¥
 
-14.uCOSIII-TaskQue Ê¹ÓÃÏûÏ¢¶ÓÁÐ´«µÝÐÅÏ¢
+14.uCOSIII-TaskQue ä½¿ç”¨æ¶ˆæ¯é˜Ÿåˆ—ä¼ é€’ä¿¡æ¯
 
-15.uCOSIII-TaskEmbedQue Ê¹ÓÃÈÎÎñÄÚÇ¶ÏûÏ¢¶ÓÁÐ´«µÝÐÅÏ¢
+15.uCOSIII-TaskEmbedQue ä½¿ç”¨ä»»åŠ¡å†…åµŒæ¶ˆæ¯é˜Ÿåˆ—ä¼ é€’ä¿¡æ¯
 
-16.uCOSIII-QueUseNotice ¶ÓÁÐ´«Êä¶ªÊý¾ÝÔ­Òò
+16.uCOSIII-QueUseNotice é˜Ÿåˆ—ä¼ è¾“ä¸¢æ•°æ®åŽŸå› 
 
-17.uCOSIII-EventFlagGroup  ´®¿Ú½ÓÊÕÐ­ÒéÓÃÊÂ¼þ±êÖ¾×é¿ØÖÆÈÎÎñ
+17.uCOSIII-EventFlagGroup  ä¸²å£æŽ¥æ”¶åè®®ç”¨äº‹ä»¶æ ‡å¿—ç»„æŽ§åˆ¶ä»»åŠ¡
 
-18.uCOSIII-MemManage  ÉêÇëÊÍ·ÅÄÚ´æ¼°¼à¿ØÊ£ÓàÄÚ´æ
+18.uCOSIII-MemManage  ç”³è¯·é‡Šæ”¾å†…å­˜åŠç›‘æŽ§å‰©ä½™å†…å­˜
 
-19.uCOSIII-StatTask Í³¼ÆÈÎÎñÍ³¼ÆCPUºÍÕ»Ê¹ÓÃÂÊ
+19.uCOSIII-StatTask ç»Ÿè®¡ä»»åŠ¡ç»Ÿè®¡CPUå’Œæ ˆä½¿ç”¨çŽ‡
 
-####¸üÐÂÀúÊ·
-* 2015.8.18 Ìí¼Ó 1.UCOSIII-LED
-* 2015.8.18 Ìí¼Ó 2.uCOSIII-DelTask
-* 2015.8.18 Ìí¼Ó 3.uCOSIII-SuspendTask
-* 2015.8.18 Ìí¼Ó 4.uCOSIII-TimeSlicing 
-* 2015.8.19 Ìí¼Ó 5.uCOSIII-DirectReleaseISR
-* 2015.8.19 Ìí¼Ó 6.uCOSIII-DelayReleaseISR
-* 2015.8.20 Ìí¼Ó 7.uCOSIII-SoftwareTimer 
-* 2015.8.21 Ìí¼Ó 8.uCOSIII-ShareDataErr
-* 2015.8.21 Ìí¼Ó 9.uCOSIII-BinSemShareData
-* 2015.8.21 Ìí¼Ó 10.uCOSIII-BinSemSyncTask
-* 2015.8.21 Ìí¼Ó 11.uCOSIII-MutexSem
-* 2015.8.21 Ìí¼Ó 12.uCOSIII-TaskEmbedSem
-* 2015.8.24 Ìí¼Ó 13.uCOSIII-ISRSyncTask
-* 2015.8.25 Ìí¼Ó 14.uCOSIII-TaskQue
-* 2015.8.26 Ìí¼Ó 15.uCOSIII-TaskEmbedQue
-* 2015.8.27 Ìí¼Ó 16.uCOSIII-QueUseNotice 
-* 2015.8.27 Ìí¼Ó 17.uCOSIII-EventFlagGroup 
-* 2015.8.28 Ìí¼Ó 18.uCOSIII-MemManage
-* 2015.8.31 Ìí¼Ó 19.uCOSIII-StatTask
+####æ›´æ–°åŽ†å²
+* 2015.8.18 æ·»åŠ  1.UCOSIII-LED
+* 2015.8.18 æ·»åŠ  2.uCOSIII-DelTask
+* 2015.8.18 æ·»åŠ  3.uCOSIII-SuspendTask
+* 2015.8.18 æ·»åŠ  4.uCOSIII-TimeSlicing 
+* 2015.8.19 æ·»åŠ  5.uCOSIII-DirectReleaseISR
+* 2015.8.19 æ·»åŠ  6.uCOSIII-DelayReleaseISR
+* 2015.8.20 æ·»åŠ  7.uCOSIII-SoftwareTimer 
+* 2015.8.21 æ·»åŠ  8.uCOSIII-ShareDataErr
+* 2015.8.21 æ·»åŠ  9.uCOSIII-BinSemShareData
+* 2015.8.21 æ·»åŠ  10.uCOSIII-BinSemSyncTask
+* 2015.8.21 æ·»åŠ  11.uCOSIII-MutexSem
+* 2015.8.21 æ·»åŠ  12.uCOSIII-TaskEmbedSem
+* 2015.8.24 æ·»åŠ  13.uCOSIII-ISRSyncTask
+* 2015.8.25 æ·»åŠ  14.uCOSIII-TaskQue
+* 2015.8.26 æ·»åŠ  15.uCOSIII-TaskEmbedQue
+* 2015.8.27 æ·»åŠ  16.uCOSIII-QueUseNotice 
+* 2015.8.27 æ·»åŠ  17.uCOSIII-EventFlagGroup 
+* 2015.8.28 æ·»åŠ  18.uCOSIII-MemManage
+* 2015.8.31 æ·»åŠ  19.uCOSIII-StatTask
 
 
-####Ïà¹ØÁ´½Ó¼°·´À¡
+####ç›¸å…³é“¾æŽ¥åŠåé¦ˆ
 
-¹¤³Ì»ñÈ¡ £º  https://git.oschina.net/bear_z/STM32-uCOSIII.git
+å·¥ç¨‹èŽ·å– ï¼š  https://git.oschina.net/bear_z/STM32-uCOSIII.git
 
-Bug·´À¡ £º 965006619@qq.com
+Bugåé¦ˆ ï¼š 965006619@qq.com
 
 ----
