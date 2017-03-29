@@ -43,7 +43,7 @@
 
 19.uCOSIII-StatTask 统计任务统计CPU和栈使用率
 
-####更新历史
+#### 更新历史
 * 2015.8.18 添加 1.UCOSIII-LED
 * 2015.8.18 添加 2.uCOSIII-DelTask
 * 2015.8.18 添加 3.uCOSIII-SuspendTask
@@ -65,10 +65,10 @@
 * 2015.8.31 添加 19.uCOSIII-StatTask
 
 
-####相关链接及反馈
+#### 相关链接及反馈
 
 工程获取 ：  https://git.oschina.net/bear_z/STM32-uCOSIII.git
 
-Bug反馈 ： 965006619@qq.com
+Bug反馈 ： pengyu.zhang.io@gmail.com
 
 ----
